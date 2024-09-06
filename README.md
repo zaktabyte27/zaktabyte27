@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I am a software engineer that likes making stuff. <br>Here are my projects and some of the skills I have.
-[Portfolio](https://zaktabyte27.github.io/Portfolio/)
+[My portfolio](https://zaktabyte27.github.io/Portfolio/)
 
 
 ## 🌐 Socials:
